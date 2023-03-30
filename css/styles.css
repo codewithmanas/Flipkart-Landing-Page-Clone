@@ -52,6 +52,10 @@ nav {
     cursor: pointer;
 }
 
+.flipkart__plus {
+    color: #C5D45A;
+}
+
 .sub-title {
     display: flex;
     justify-content: space-between;
@@ -214,6 +218,7 @@ main {
 
 .product__types > h1 {
     text-align: center;
+    font-weight: 400;
 }
 
 .product__types > button {
